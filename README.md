@@ -28,3 +28,15 @@ To run this project locally, follow these steps:
 - Set up the MAVEN_HOME and M2_HOME environment variables.
 - Clone the Project from Git
 
+## Running the Project in Eclipse:
+1. Import Project into Eclipse:
+- Open Eclipse IDE.
+- Go to File -> Import.
+- Choose Existing Maven Projects.
+- Browse and select the root directory of the cloned saucedemo project.
+- Click Finish to import the project into Eclipse.
+
+2. Set Up Dependencies:
+- The project uses Selenium WebDriver for automation. Ensure the necessary Selenium dependencies are added to the pom.xml file.
+
+
